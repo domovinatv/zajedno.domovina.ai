@@ -5,7 +5,9 @@
 ide izravno u Safe multisig projekta. Platforma je besplatna i ne drži novac.
 
 Datum osnivanja baze: **20. listopada 2026.** Izvorni nacrt nastao je kao Claude
-dokument „P2P ulaganje u lokalne zajednice — arhitektura” i razdijeljen je ovdje.
+dokument „P2P ulaganje u lokalne zajednice — arhitektura”
+(https://claude.ai/code/artifact/4f57ede2-e140-45b5-8bd0-865bdbd10418) i razdijeljen je
+ovdje. Taj dokument se više ne održava; izvor istine je ovaj `docs/`.
 
 | # | Dokument | Što sadrži |
 |---|---|---|
