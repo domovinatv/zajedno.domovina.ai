@@ -26,6 +26,9 @@ dokumenata, ne obrnuto; kad se odluka promijeni, prvo se mijenja dokument.
 
 - Tvrdnja o drugom repou (rail, energy, karta) ulazi u dokument tek kad je provjerena
   u tom repou; uz nju ide put do izvora (`pay.domovina.ai/docs/...`).
+- Popis projekata i podrška po projektu već rade u `energy.domovina.ai/sandbox/`
+  (`docs/06` „Što već radi”). Prije pisanja frontenda kampanje pogledaj taj kod i
+  ne radi četvrtu kopiju ugovora s railom (`docs/08`).
 - Dijagrami su mermaid u markdownu.
 - Riječ „ulaganje” ne koristi se u copyju: podržavatelj **doprinosi**, ne ulaže
   (vidi `docs/07`).
