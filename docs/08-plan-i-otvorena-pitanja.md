@@ -17,9 +17,10 @@ flowchart LR
 
 ## Otvorena pitanja
 
-- [ ] Koliko traje i što traži Monerium KYB za župu i za klub (udrugu)? To je najveće trenje onboardinga.
-- [ ] Tko su potpisnici Safea: župnik + ekonom + član ekonomskog vijeća; predsjednik + blagajnik + član uprave kluba?
+- [ ] Koliko traje i što traži Monerium KYB za župu i za klub (udrugu)? To je najveće trenje onboardinga. Pitanja za Monerium su u `docs/09`.
+- [ ] Tko su potpisnici Safea: župnik + ekonom + član ekonomskog vijeća; predsjednik + blagajnik + član uprave kluba? Izvođač nikad nije potpisnik (`docs/09` §4).
 - [ ] Treba li župi suglasnost biskupije za elektranu na crkvenoj nekretnini, i može li to biti korak u onboardingu?
 - [ ] Standardni tekst izjave o namjeni viška sredstava, jedan za sve projekte.
 - [ ] Je li Certilia obavezna za podršku ili samo za potvrdu na ime i javnu listu podržavatelja?
+- [ ] Kako dokazati da je osoba zastupnik organizacije prije nego što preuzme točku s karte (`docs/09` §2)?
 - [ ] Prazan repo `domovinatv/funding.domovina.ai` (lokalno samo `.git`): obrisati ili preimenovati.

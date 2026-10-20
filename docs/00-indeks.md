@@ -19,3 +19,4 @@ ovdje. Taj dokument se više ne održava; izvor istine je ovaj `docs/`.
 | 06 | [arhitektura](./06-arhitektura.md) | Komponente, što postoji, što je novo |
 | 07 | [pravni-okvir](./07-pravni-okvir.md) | Tko je reguliran za što; granica prema ECSP-u |
 | 08 | [plan-i-otvorena-pitanja](./08-plan-i-otvorena-pitanja.md) | Faze i otvorena pitanja |
+| 09 | [onboarding-zupe-i-kluba](./09-onboarding-zupe-i-kluba.md) | Koraci od prijave do prve uplate; provjereno vs. pretpostavka |
