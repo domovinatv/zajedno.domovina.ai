@@ -33,6 +33,10 @@ dokumenata, ne obrnuto; kad se odluka promijeni, prvo se mijenja dokument.
 - Popis projekata i podrška po projektu već rade u `energy.domovina.ai/sandbox/`
   (`docs/06` „Što već radi”). Prije pisanja frontenda kampanje pogledaj taj kod i
   ne radi četvrtu kopiju ugovora s railom (`docs/08`).
-- Dijagrami su mermaid u markdownu.
+- Dijagrami su mermaid u markdownu. Repo nema build, pa ih prije commita parsiraj
+  mermaidom iz `stadion-maksimir-natjecaj-2026/web/node_modules` uz `jsdom` u
+  privremenoj mapi (skripta u tom repou, `docs/2026-09-25-regresijske-provjere.md`).
+- Glasovanje i Certilia (`docs/10`–`13`): tvrdnja o stadionu ide s putom u
+  `stadion-maksimir-natjecaj-2026`; plan V2 (P0–P7) i ugovori ostaju tamo.
 - Riječ „ulaganje” ne koristi se u copyju: podržavatelj **doprinosi**, ne ulaže
   (vidi `docs/07`).
