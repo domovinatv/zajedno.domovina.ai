@@ -158,6 +158,7 @@ Upravitelj otvara projekt (cilj, rok, opis). Za njega `tools/funding` napravi:
 | Izravni mint u Safe projekta iz Revoluta | **provjereno** u produkciji (1 €, Lukavec Safe), isti izvor |
 | Ime adrese u Moneriumu i kampanja traže web sesiju, pa su danas dvije naredbe u konzoli preglednika | **provjereno**, isti izvor; za self-serve treba API |
 | Produkcija: Safe 1.5.0, adresa SignMessageLib za 1.5.0 još nije upisana u `lib.mjs` | **provjereno** kao otvorena stavka 3, isti izvor |
+| Cijeli tok na sandboxu: `funding-init` → kampanja i whitelista u adminu → `pk_` tenanta → stranica projekta prima podršku, status uživo, saldo s lanca | **provjereno** 20. 10. 2026. na `italk-sandbox`, `energy.domovina.ai/docs/17` §3 i §5 (`docs/06` „Što već radi”) |
 | `funding-init` radi s vjerodajnicama tenanta koji nije ITalk | **pretpostavka**; dosad je rađen za `italk-sandbox` i ITalk |
 
 ## 7. Objava

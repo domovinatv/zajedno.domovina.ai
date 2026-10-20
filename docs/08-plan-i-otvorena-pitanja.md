@@ -2,7 +2,9 @@
 
 Rail, Safe po projektu i karta već rade, pa MVP nije novi sustav nego povezivanje
 postojećeg. Projekti Karta Hrvatske i Stranke već imaju Safe i kampanju na sandboxu
-(`pay.domovina.ai/docs/2026-10-11-funding-po-projektu.md`).
+(`pay.domovina.ai/docs/2026-10-11-funding-po-projektu.md`). Od 20. 10. 2026.
+`energy.domovina.ai/sandbox/` pokazuje cijeli tok podrške jednog projekta na
+`italk-sandbox` tenantu, uključujući frontend (`docs/06` „Što već radi”).
 
 ```mermaid
 flowchart LR
@@ -23,4 +25,6 @@ flowchart LR
 - [ ] Standardni tekst izjave o namjeni viška sredstava, jedan za sve projekte.
 - [ ] Je li Certilia obavezna za podršku ili samo za potvrdu na ime i javnu listu podržavatelja?
 - [ ] Kako dokazati da je osoba zastupnik organizacije prije nego što preuzme točku s karte (`docs/09` §2)?
+- [ ] Kako preuzeti frontend kampanje iz energyja (`lib/mpt-intent.ts`, `components/beta/*`) bez četvrte kopije ugovora s railom: paket, zajednička jezgra ili ova platforma kao jezgra?
+- [ ] Isprobati tenant koji nije ITalk na sandboxu: vlastiti Monerium sandbox račun, `tenant_rail`, `pk_`, kampanja (`docs/09` §5–6).
 - [ ] Prazan repo `domovinatv/funding.domovina.ai` (lokalno samo `.git`): obrisati ili preimenovati.
