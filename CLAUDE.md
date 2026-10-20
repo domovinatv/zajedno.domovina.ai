@@ -21,6 +21,10 @@ dokumenata, ne obrnuto; kad se odluka promijeni, prvo se mijenja dokument.
    organizacije (`docs/02`).
 7. **Zaseban repo** s vlastitom bazom znanja; ime `zajedno.domovina.ai`
    (`projekti.domovina.ai` je zauzet).
+8. **Opći plan glasovanja i Certilije živi ovdje** (`docs/10`–`13`, od 20. 10. 2026.).
+   Izvedba stadiona Maksimir (ugovori, audit, reviewi, plan V2 P0–P7) ostaje u
+   `stepanic/stadion-maksimir-natjecaj-2026` kao referentna instanca; ovdje se citira
+   s putom do izvora.
 
 ## Pravila
 

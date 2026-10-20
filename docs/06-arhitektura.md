@@ -59,7 +59,8 @@ flowchart LR
 | `tools/funding` | postoji (sandbox) | Safe po projektu, Monerium link, kampanja; treba API umjesto skripte |
 | wallet.domovina.ai | postoji | passkey Safe kao potpisnički ključ upravitelja |
 | API + baza | novo | organizacije, članstva, projekti, podrške, troškovi s računima |
-| Certilia login | novo | OIDC prijava, OIB u profilu osobe |
+| Certilia login | postoji u glasanju za stadion, ovdje novo | OIDC prijava, OIB u profilu osobe; proxy i edge funkcija se preuzimaju (`docs/11`) |
+| Glasovanje | V1 radi za stadion; tvornica je plan | upis preko ZK dokaza Certilije, instanca po glasovanju na Gnosisu (`docs/12`) |
 | Indekser salda | novo | saldo i izlazi Safea s lanca, keš u bazi |
 
 ## Što već radi: energy `/sandbox/` (20. 10. 2026.)

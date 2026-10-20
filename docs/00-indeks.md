@@ -20,3 +20,7 @@ ovdje. Taj dokument se više ne održava; izvor istine je ovaj `docs/`.
 | 07 | [pravni-okvir](./07-pravni-okvir.md) | Tko je reguliran za što; granica prema ECSP-u |
 | 08 | [plan-i-otvorena-pitanja](./08-plan-i-otvorena-pitanja.md) | Faze i otvorena pitanja |
 | 09 | [onboarding-zupe-i-kluba](./09-onboarding-zupe-i-kluba.md) | Koraci od prijave do prve uplate; provjereno vs. pretpostavka |
+| 10 | [glasovanje-opci-model](./10-glasovanje-opci-model.md) | Glasovanje u organizaciji i šire: pet osi, problemi i rješenja |
+| 11 | [certilia-identitet](./11-certilia-identitet.md) | Certilia za prijavu i glasovanje: što postoji, problemi, zamke |
+| 12 | [glasovanje-na-lancu](./12-glasovanje-na-lancu.md) | Neporecivost: ugovori, Semaphore ili MACI, Gnosis |
+| 13 | [plan-glasovanja](./13-plan-glasovanja.md) | Faze od stadiona Maksimir do glasovanja u organizaciji |

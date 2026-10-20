@@ -28,3 +28,10 @@ flowchart LR
 - [ ] Kako preuzeti frontend kampanje iz energyja (`lib/mpt-intent.ts`, `components/beta/*`) bez četvrte kopije ugovora s railom: paket, zajednička jezgra ili ova platforma kao jezgra?
 - [ ] Isprobati tenant koji nije ITalk na sandboxu: vlastiti Monerium sandbox račun, `tenant_rail`, `pk_`, kampanja (`docs/09` §5–6).
 - [ ] Prazan repo `domovinatv/funding.domovina.ai` (lokalno samo `.git`): obrisati ili preimenovati.
+- [ ] Dopušta li statut udruge (Zakon o udrugama) e-glasovanje na skupštini, i treba li župi odluka biskupije za glasovanje članova (`docs/10` §1)?
+- [ ] Koja je minimalna veličina biračkog tijela za Semaphore način u maloj župi ili klubu (`docs/10` B7)?
+- [ ] Može li AKD izdati javnog PKCE klijenta i drugi OIDC klijent samo za glasanje (`docs/11` §6)?
+- [ ] Vlasnik instance glasovanja: Safe platforme ili Safe organizacije (`docs/12` §6)?
+
+Plan glasovanja ima vlastite faze u `docs/13`; faza 3 (glasovanje u organizaciji)
+dolazi nakon stadiona V2.

@@ -21,6 +21,13 @@ Ograničenja:
 2. Platforma nikad ne drži novac ni ključ koji ga miče. Uplata ide izravno u Safe projekta (izravni mint, bez forwarda), a troši se samo potpisima organizacije.
 3. Jedna osoba ima najviše jedno članstvo po organizaciji (`UNIQUE(osoba_id, organizacija_id)`).
 4. Projekt smiju otvoriti samo upravitelji organizacije, a organizacija mora imati aktivan MPT tenant (KYB prošao kod Moneriuma).
+5. Glasovanje ne pomiče novac. Odluka glasovanja je mandat; Safe i dalje troše samo potpisnici (`docs/10` §1).
+
+**Glasovanje (plan, `docs/13` faza 3).** Entiteti `GLASOVANJE` (organizacija, hash
+definicije, adresa instance na lancu) i `PRESJEK_CLANOVA` (Merkle korijen oznaka i broj
+članova u trenutku otvaranja) još nisu u dijagramu; dodaju se kad se faza 3 razradi.
+Članstvo kao biračko tijelo uvodi novu točku povjerenja: upravitelj vodi popis
+(`docs/10` §1).
 
 ## ER dijagram
 
@@ -40,7 +47,7 @@ erDiagram
     OSOBA {
         uuid id PK
         string certilia_sub "OIDC subject"
-        string oib "iz Certilije"
+        string oib "HMAC za jedinstvenost; šifriran samo gdje treba (docs/11 §5)"
         string ime
         string email
     }
